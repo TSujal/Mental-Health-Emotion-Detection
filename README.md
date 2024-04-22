@@ -24,7 +24,7 @@ Various machine learning algorithms, such as Support Vector Machines (SVM), Rand
 A Feedforward Neural Network (FFNN) is implemented as a deep learning model to further analyze the audio data. Architecture details and optimization techniques are utilized to achieve high accuracy in predicting emotional states.
 
 ## Repository Structure
-1) `Mental-Health-Emotion-FINAL.ipynb`: Contains the main code of the project
+1) `Mental-Health-Emotion.ipynb`: Contains the main code of the project
 2) `Readme.md`: Contains the details about the project
 3) `Report`
 4) `Audio Dataset`: contains the audio data used in the project
