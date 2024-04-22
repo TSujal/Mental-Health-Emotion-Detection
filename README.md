@@ -45,6 +45,7 @@ A Feedforward Neural Network (FFNN) is implemented as a deep learning model to f
 
 1) Incorporating real-time audio analysis for continuous monitoring.
 2) Expanding the dataset to encompass a broader range of emotional states and demographic diversity.
+3) Adding up more columns to dataset which gives positive or negative impact on the target column through which we could predict more accurately plus also justify our prediction that because of so and so reason we predict the mental state of a human being.
 
 ## Contributors
 Sujal Thakkar: thakkar.su@northeastern.edu , sujalthakkar95@gmail.com
