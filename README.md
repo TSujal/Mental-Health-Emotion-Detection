@@ -4,7 +4,7 @@ The Mental_Health_Emotion project aims to analyze mental health states using aud
 
 ### Data Source:
 The Data-set used in the project was obtained from kaggle. which contains the audio data of 2 actor in which each person has different voice and each has the audio data for all the 7 classes and each class inside individual person have 200 audio samples per class.
-link to the data-set :https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/data
+link :https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/data
 
 
 ### Project Steps:
@@ -15,7 +15,8 @@ The audio data undergoes preprocessing steps to clean and normalize the recordin
 Exploratory data analysis is conducted to gain insights into the characteristics of the dataset. Visualizations and statistical summaries help in understanding the distribution and patterns within the data.
 
 #### 3) Feature Extraction:
-Mel-Frequency Cepstral Coefficients (MFCC) are extracted from the audio data to convert it into a numerical format suitable for machine learning analysis.
+Feature Extraction is one of the crucial steps without which we cannot carry forward our project. Where we convert our audio samples to numeric form.
+Now, Converting audio to numeric format can be done in many ways but we have implemented it using MFCCs which stands for Mel-Frequency Cepstral Coefficients. Which has basically been simply done using Librosa library.
 
 #### 4) Machine Learning Algorithms:
 Various machine learning algorithms, such as Support Vector Machines (SVM), Random Forest, etc., are employed to predict mental health states based on the extracted features. Performance metrics are evaluated to assess the effectiveness of the models.
