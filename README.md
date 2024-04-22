@@ -28,6 +28,11 @@ A Feedforward Neural Network (FFNN) is implemented as a deep learning model to f
 2) `Readme.md`: Contains the details about the project
 3) `Report`
 4) `Audio Dataset`: contains the audio data used in the project
+5) `Spectogram Emotion Images`: various images of Emotions in Spectogram
+6) `Waveform Emotion Images`: Various waveform images of various Emotions
+7) `Accuracy Curve`: Deep learning Model Accuracy Curve
+8) `Loss Curve`: Deep learning Model Loss Curve on Training and Validation Data
+9) `Confusion-Matrix` : Random forest and Decision Tree Confusion Matrices Image 
 
 ## Usage
 1) Clone the repository to your local machine.
